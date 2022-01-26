@@ -1,0 +1,13 @@
+// 1 - inclusão de bibliotecas
+#include <iostream> // biblioteca de io's
+
+//definição do namespace
+using namespace std; // organização de pastas
+
+int main (){
+
+
+
+
+    return 0;
+}
